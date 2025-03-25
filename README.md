@@ -2,6 +2,7 @@
 
 ![gatinho_digitando](https://github.com/user-attachments/assets/feea703e-9a47-4c9b-95f2-e79b12a9067d)
 
+<hr>
 
 <p>💻 Explorando o universo do desenvolvimento front-end</p>
 <p>📚 Apaixonado por livros e sempre aprendendo algo novo</p>
