@@ -15,7 +15,6 @@
 <h2>🛠️ Tecnologias e ferramentas</h2>
 <ul>
   <li>HTML5 & CSS3</li>
-  <li>Em breve: JavaScript e frameworks modernos</li>
 </ul>
 
 <h2>📖 O que estou estudando</h2>
