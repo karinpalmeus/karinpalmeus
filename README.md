@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>👋 Olá, Devs! Me chamo Karin</h1>
 
-<!--
-**karinpalmeus/karinpalmeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gatinho_digitando](https://github.com/user-attachments/assets/feea703e-9a47-4c9b-95f2-e79b12a9067d)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>💻 Explorando o universo do desenvolvimento front-end</p>
+<p>📚 Apaixonado por livros e sempre aprendendo algo novo</p>
+<p>🐱 Admiradora incondicional de gatos</p>
+
+<h2>🚀 Sobre mim</h2>
+<p>Atualmente sou graduanda em Análises e Desenvolvimento de Sistemas, estou expandindo meus conhecimentos em front-end, buscando criar interfaces mais intuitivas e acessíveis. Tenho um grande interesse em me tornar uma desenvolvedora fullstack, explorando tanto o front-end quanto o back-end para criar aplicações completas.
+   Gosto de experimentar novas tecnologias e aprimorar minhas habilidades em design e desenvolvimento.</p>
+
+<h2>🛠️ Tecnologias e ferramentas</h2>
+<ul>
+  <li>HTML5 & CSS3</li>
+  <li>Em breve: JavaScript e frameworks modernos</li>
+</ul>
+
+<h2>📖 O que estou estudando</h2>
+<ul>
+  <li>UX/UI Design</li>
+  <li>Desenvolvimento front-end</li>
+</ul>
+
+<p>💬 Vamos conversar sobre tecnologia, livros ou gatos? Me chame por aqui e conecte-se comigo no <a href="https://www.linkedin.com/in/karinpalmeus/">Linkedin</a>!</p>
+
+
