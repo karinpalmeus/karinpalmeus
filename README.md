@@ -23,6 +23,6 @@
   <li>Desenvolvimento front-end</li>
 </ul>
 
-<p>💬 Vamos conversar sobre tecnologia, livros ou gatos? Me chame por aqui e conecte-se comigo no <a href="https://www.linkedin.com/in/karinpalmeus/">Linkedin</a>!</p>
+<p>💬 Vamos conversar sobre tecnologia? Me chame por aqui e conecte-se comigo no <a href="https://www.linkedin.com/in/karinpalmeus/">Linkedin</a>!</p>
 
 
