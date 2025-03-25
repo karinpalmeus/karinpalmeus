@@ -1,6 +1,6 @@
 <h1>👋 Olá, Devs! Me chamo Karin</h1>
 
-![gatinho_digitando](https://github.com/user-attachments/assets/feea703e-9a47-4c9b-95f2-e79b12a9067d)
+![gatinho_digitando](https://github.com/user-attachments/assets/86a9f95c-e18b-40cb-aba4-5a80f7d89098)
 
 <hr>
 
