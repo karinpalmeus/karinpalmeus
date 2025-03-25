@@ -5,7 +5,7 @@
 <hr>
 
 <p>💻 Explorando o universo do desenvolvimento front-end</p>
-<p>📚 Apaixonado por livros e sempre aprendendo algo novo</p>
+<p>📚 Apaixonada por livros e sempre aprendendo algo novo</p>
 <p>🐱 Admiradora incondicional de gatos</p>
 
 <h2>🚀 Sobre mim</h2>
